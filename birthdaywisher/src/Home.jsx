@@ -54,7 +54,7 @@ export const Home = () => {
               >
                 {`Hey my dear love ${name}`} <br />
                 <br />
-                {`Happy Birthday Dear Darling 💃${name} 💃`}
+                {`Happy Birthday Dear Darling ${name} 💃`}
                 <br />
                 <br />
                 {` Have a bright future ahead!`}
