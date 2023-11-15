@@ -17,7 +17,7 @@ export const Home = () => {
   return (
     <>
       <Container color={"teal"} fontFamily={"cursive"} paddingTop={"30px"}>
-        Hey, this is for your
+        Hey, this is for you !
       </Container>
       <Container
         display={"flex"}
