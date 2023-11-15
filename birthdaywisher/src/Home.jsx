@@ -50,7 +50,7 @@ export const Home = () => {
                 textAlign={"center"}
                 fontFamily={"cursive"}
                 color={"teal"}
-                fontSize={"18px"}
+                fontSize={"19px"}
               >
                 {`Hey my dear love ${name}`} <br />
                 <br />
