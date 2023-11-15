@@ -43,7 +43,7 @@ export const Home = () => {
             <ModalOverlay />
             <ModalContent>
               <ModalHeader textAlign={"center"} fontSize={"60px"}>
-                
+                🎉
               </ModalHeader>
               <ModalCloseButton />
               <ModalBody
